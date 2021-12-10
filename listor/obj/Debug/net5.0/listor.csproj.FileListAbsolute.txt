@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\listor\bin\Debug\net5.0\listor.exe
+C:\Users\Admin\Desktop\listor\bin\Debug\net5.0\listor.deps.json
+C:\Users\Admin\Desktop\listor\bin\Debug\net5.0\listor.runtimeconfig.json
+C:\Users\Admin\Desktop\listor\bin\Debug\net5.0\listor.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\listor\bin\Debug\net5.0\listor.dll
+C:\Users\Admin\Desktop\listor\bin\Debug\net5.0\ref\listor.dll
+C:\Users\Admin\Desktop\listor\bin\Debug\net5.0\listor.pdb
+C:\Users\Admin\Desktop\listor\obj\Debug\net5.0\listor.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\listor\obj\Debug\net5.0\listor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\listor\obj\Debug\net5.0\listor.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\listor\obj\Debug\net5.0\listor.AssemblyInfo.cs
+C:\Users\Admin\Desktop\listor\obj\Debug\net5.0\listor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\listor\obj\Debug\net5.0\listor.dll
+C:\Users\Admin\Desktop\listor\obj\Debug\net5.0\ref\listor.dll
+C:\Users\Admin\Desktop\listor\obj\Debug\net5.0\listor.pdb
+C:\Users\Admin\Desktop\listor\obj\Debug\net5.0\listor.genruntimeconfig.cache
